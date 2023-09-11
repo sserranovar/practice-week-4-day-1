@@ -3,6 +3,7 @@
 #################### PROBLEM 1: Types of Numbers & Basic Arithmetic ####################
 # Task 1: Declare an integer named 'age' with a value of 25.
 # Print out its type to ensure it's an integer.
+print("cheking thy repo")
 age=25
 print(f"{age}")
 # Task 2: Declare a float named 'height' with a value of 5.9 (which represents someone's height in feet).
